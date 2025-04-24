@@ -1,0 +1,6 @@
+# Keep source and header files
+!*.cpp
+!*.h
+!*.hpp
+!*.cxx
+!*.hxx

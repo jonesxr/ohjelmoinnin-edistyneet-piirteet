@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\olio_kierros_3_t2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5E3584-EDE2-4861-B5B4-20BB7B905257}|olio_kierros_3_t2\\olio_kierros_3_t2.vcxproj|C:\\olio_kierros_3_t2\\olio_kierros_3_t2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE5E3584-EDE2-4861-B5B4-20BB7B905257}|olio_kierros_3_t2\\olio_kierros_3_t2.vcxproj|solutionrelative:olio_kierros_3_t2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5E3584-EDE2-4861-B5B4-20BB7B905257}|olio_kierros_3_t2\\olio_kierros_3_t2.vcxproj|C:\\olio_kierros_3_t2\\olio_kierros_3_t2\\Henkilo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE5E3584-EDE2-4861-B5B4-20BB7B905257}|olio_kierros_3_t2\\olio_kierros_3_t2.vcxproj|solutionrelative:olio_kierros_3_t2\\Henkilo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE5E3584-EDE2-4861-B5B4-20BB7B905257}|olio_kierros_3_t2\\olio_kierros_3_t2.vcxproj|C:\\olio_kierros_3_t2\\olio_kierros_3_t2\\Henkilo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE5E3584-EDE2-4861-B5B4-20BB7B905257}|olio_kierros_3_t2\\olio_kierros_3_t2.vcxproj|solutionrelative:olio_kierros_3_t2\\Henkilo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Henkilo.h",
+              "DocumentMoniker": "C:\\olio_kierros_3_t2\\olio_kierros_3_t2\\Henkilo.h",
+              "RelativeDocumentMoniker": "olio_kierros_3_t2\\Henkilo.h",
+              "ToolTip": "C:\\olio_kierros_3_t2\\olio_kierros_3_t2\\Henkilo.h",
+              "RelativeToolTip": "olio_kierros_3_t2\\Henkilo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T17:31:32.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Henkilo.cpp",
+              "DocumentMoniker": "C:\\olio_kierros_3_t2\\olio_kierros_3_t2\\Henkilo.cpp",
+              "RelativeDocumentMoniker": "olio_kierros_3_t2\\Henkilo.cpp",
+              "ToolTip": "C:\\olio_kierros_3_t2\\olio_kierros_3_t2\\Henkilo.cpp",
+              "RelativeToolTip": "olio_kierros_3_t2\\Henkilo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T17:31:17.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\olio_kierros_3_t2\\olio_kierros_3_t2\\main.cpp",
+              "RelativeDocumentMoniker": "olio_kierros_3_t2\\main.cpp",
+              "ToolTip": "C:\\olio_kierros_3_t2\\olio_kierros_3_t2\\main.cpp",
+              "RelativeToolTip": "olio_kierros_3_t2\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T17:29:41.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
